@@ -1,0 +1,8 @@
+{
+  "name": "detectron2",
+  "latest_version": "0.6",
+  "versions": ["0.5", "0.6"],
+  "description": "Facebook AI Research's next-generation library for object detection.",
+  "author": "FAIR",
+  "homepage": "https://github.com/facebookresearch/detectron2"
+}
