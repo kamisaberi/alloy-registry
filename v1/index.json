@@ -1,0 +1,10 @@
+{
+  "last_updated": "2026-06-16T12:00:00Z",
+  "packages": [
+    {
+      "name": "detectron2",
+      "version": "0.6",
+      "description": "Facebook AI Research's next-generation library for object detection."
+    }
+  ]
+}
